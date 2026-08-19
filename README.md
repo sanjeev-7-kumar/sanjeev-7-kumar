@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently a student<br>🌱 I’m currently learning web 3,data science, etc...<br>💬 Ask me about python SQL HTML CSS<br>⚡ Fun fact I love to code
+Enthusiastic Computer Science student with a strong foundation in programming languages and core concepts, driven by a
+passion for problem-solving. Strong teamwork and communication skills, paired with a commitment to continuous learning
+and professional growth.Eager to contribute in a collaborative and creative environment while applying and expanding
+technical expertise.
 
 
 ## 🌐 Socials:
