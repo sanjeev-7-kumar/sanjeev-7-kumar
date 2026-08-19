@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student<br>🌱 I’m currently learning web 3,data science, etc...<br>💬 Ask me about c,c++,python and java<br>⚡ Fun fact I love to code
+🔭 I’m currently a student<br>🌱 I’m currently learning web 3,data science, etc...<br>💬 Ask me about python SQL HTML CSS<br>⚡ Fun fact I love to code
 
 
 ## 🌐 Socials:
