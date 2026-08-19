@@ -4,7 +4,7 @@ passion for problem-solving. Strong teamwork and communication skills, paired wi
 and professional growth.Eager to contribute in a collaborative and creative environment while applying and expanding
 technical expertise.
 
-#<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5de831c2-59d4-4dd0-84d3-1818eff79937" />
+<img width="27" height="27" alt="image" src="https://github.com/user-attachments/assets/5de831c2-59d4-4dd0-84d3-1818eff79937" />
 
 
 # 💻 Tech Stack:
